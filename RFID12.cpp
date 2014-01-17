@@ -1,9 +1,9 @@
 /***********************************************************************
- * RFID12 Arduino Library
+ * RFID12 Arduino Library v1.0
  *
  * Created by Victor Aprea
  * victor.aprea@wickeddevice.com
- * http://wickeddevice.com  
+ * http://wickeddevice.com
  *
  * This library is intended for use with the 
  * Innovations ID-12LA RFID Reader
